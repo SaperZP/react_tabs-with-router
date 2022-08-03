@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/NavBar/NavBar.css"],"names":[],"mappings":"AAAA,uBACE,kCACF","file":"main.373482e5.chunk.css","sourcesContent":[".navbar-item.is-active {\n  background-color: #fafafa !important;\n}\n"]}
